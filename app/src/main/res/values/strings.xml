@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Family Map Client</string>
+    <string name="serverHost">Server Host:</string>
+    <string name="serverPort">Server Port:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="firstName">First Name:</string>
+    <string name="lastName">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="signLabel">SIGN IN</string>
+    <string name="registerLabel">REGISTER</string>
+
+    <string name="settingsMenuString">Settings</string>
+    <string name="searchMenuString">Search</string>
+
+    <string name="defaultMap">Click on a marker to see Event details</string>
+
+    <string name="life_story_lines">Life Story Lines</string>
+    <string name="show_life_story_lines">SHOW LIFE STORY LINES</string>
+    <string name="family_tree_lines">Family Tree Lines</string>
+    <string name="show_family_tree_lines">SHOW FAMILY TREE LINES</string>
+    <string name="spouse_lines">Spouse Lines</string>
+    <string name="show_spouse_lines">SHOW SPOUSE LINES</string>
+    <string name="logout">Logout</string>
+    <string name="return_to_login_screen">RETURN TO LOGIN SCREEN</string>
+    <string name="female_events">Female Events</string>
+    <string name="filter_events_based_on_gender">FILTER EVENTS BASED ON GENDER</string>
+    <string name="male_events">Male Events</string>
+    <string name="father_s_side">Father\'s Side</string>
+    <string name="filter_by_father_s_side_of_family">FILTER BY FATHER\'S SIDE OF FAMILY</string>
+    <string name="mother_s_side">Mother\'s Side</string>
+    <string name="filter_by_mother_s_side_of_family">FILTER BY MOTHER\'S SIDE OF FAMILY</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender2">Gender</string>
+
+    <string name="family">Family</string>
+    <string name="lifeStory">Life Story</string>
+
+</resources>
